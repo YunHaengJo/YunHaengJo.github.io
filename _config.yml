@@ -1,1 +1,16 @@
+title: haengtion25
+email: dbsgod4289@hanmail.net
+description: >
+  haengtion's jekyll site
+baseurl: ""
+url: "http://YunHaengJo.github.io"
+github_username: haengtion
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-architect
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
